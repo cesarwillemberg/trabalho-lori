@@ -1,0 +1,41 @@
+{
+  "logs": [
+    {
+      "dataHora": "2026-04-15T20:20:02.121Z",
+      "clienteDados": {
+        "idade": 30,
+        "rendaMensal": 5000,
+        "historicoDividas": "limpo",
+        "valorEmprestimo": 12000
+      },
+      "resultado": {
+        "aprovado": true,
+        "mensagem": "Crédito aprovado! Todos os critérios de avaliação foram atendidos.",
+        "valorParcela": 1000,
+        "percentualComprometido": 0.2
+      },
+      "id": "1776284402124-ztpxgb8"
+    },
+    {
+      "dataHora": "2026-04-15T20:20:12.213Z",
+      "clienteDados": {
+        "idade": 16,
+        "rendaMensal": 3000,
+        "historicoDividas": "negativado",
+        "valorEmprestimo": 50000
+      },
+      "resultado": {
+        "aprovado": false,
+        "mensagem": "Crédito reprovado. Verifique os motivos abaixo:",
+        "valorParcela": 4166.666666666667,
+        "percentualComprometido": 1.388888888888889,
+        "razoes": [
+          "Idade mínima não atingida: 16 anos (mínimo: 18 anos)",
+          "Parcela de R$ 4166.67 compromete 138.9% da renda (máximo: 30%)",
+          "Histórico de dívidas com restrições (negativado)"
+        ]
+      },
+      "id": "1776284412214-4go4k45"
+    }
+  ]
+}
