@@ -24,7 +24,7 @@
    - v1: 3m 59s
    - v2: 6m 9s
    - v3: 3m 20s
-   - v4: 
+   - v4: 6m 21s
 
 2. Qwen3-coder
    - v1:
@@ -38,7 +38,7 @@
    - v3: 7m 32s
    - v4: 9m 10s
 
-# Prompt-STRUCTURED
+# Structured-Prompt
 
 1. minimax-m2.5
    - v1: 
