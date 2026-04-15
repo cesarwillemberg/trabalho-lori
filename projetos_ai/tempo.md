@@ -21,7 +21,7 @@
 # Few-Shot
 
 1. minimax-m2.5
-   - v1: 
+   - v1: 3m 59s
    - v2: 
    - v3: 
    - v4: 
