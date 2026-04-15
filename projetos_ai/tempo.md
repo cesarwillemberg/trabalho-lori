@@ -43,7 +43,7 @@
 1. minimax-m2.5
    - v1: 1m 29s
    - v2: 2m 15s
-   - v3: 
+   - v3: 1m 46s
    - v4: 
 
 2. Qwen3-coder
