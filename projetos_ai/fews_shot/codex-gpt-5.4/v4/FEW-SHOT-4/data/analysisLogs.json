@@ -1,0 +1,55 @@
+[
+  {
+    "analyzedAt": "2026-04-11T20:42:36.538Z",
+    "customer": {
+      "age": 18,
+      "monthlyIncome": 3000,
+      "debtHistory": "limpo",
+      "loanAmount": 15000
+    },
+    "result": {
+      "approved": false,
+      "installment": 1250,
+      "incomeCommitmentPercentage": 41.66666666666667,
+      "message": "Crédito reprovado pelas regras de elegibilidade.",
+      "reasons": [
+        "A parcela compromete mais de 30% da renda mensal."
+      ]
+    },
+    "id": "5f5c8b4c-f7e1-4684-a4db-8416ecaf8648"
+  },
+  {
+    "analyzedAt": "2026-04-11T20:42:41.142Z",
+    "customer": {
+      "age": 18,
+      "monthlyIncome": 3000,
+      "debtHistory": "limpo",
+      "loanAmount": 10000
+    },
+    "result": {
+      "approved": true,
+      "installment": 833.3333333333334,
+      "incomeCommitmentPercentage": 27.77777777777778,
+      "message": "Crédito aprovado com base nas regras atuais.",
+      "reasons": []
+    },
+    "id": "eef478ca-7314-490c-86a9-ada7a0b5fc40"
+  },
+  {
+    "analyzedAt": "2026-04-11T20:42:56.890Z",
+    "customer": {
+      "age": 24,
+      "monthlyIncome": 3000,
+      "debtHistory": "limpo",
+      "loanAmount": 10000
+    },
+    "result": {
+      "approved": true,
+      "installment": 833.3333333333334,
+      "incomeCommitmentPercentage": 27.77777777777778,
+      "message": "Crédito aprovado com base nas regras atuais.",
+      "reasons": []
+    },
+    "id": "0c216fd1-8a5a-4d99-a072-1c785f0e6100"
+  }
+]

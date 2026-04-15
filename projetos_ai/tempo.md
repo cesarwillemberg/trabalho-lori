@@ -36,7 +36,7 @@
    - v1: 11m 40s
    - v2: 6m 29s
    - v3: 7m 32s
-   - v4:
+   - v4: 9m 10s
 
 # Prompt-STRUCTURED
 
