@@ -1,0 +1,79 @@
+# Zero-Shot
+
+1. minimax-m2.5
+   - v1: 6m 41s
+   - v2: 7m 0s
+   - v3: 8m 17s
+   - v4: 15m 29s
+
+2. Qwen3-coder
+   - v1: 
+   - v2:
+   - v3:
+   - v4:
+
+3. GPT-5.4-codex
+   - v1: 8m 43s
+   - v2: 9m 32s
+   - v3: 13m 43s
+   - v4:
+
+# Few-Shot
+
+1. minimax-m2.5
+   - v1: 
+   - v2: 
+   - v3: 
+   - v4: 
+
+2. Qwen3-coder
+   - v1:
+   - v2:
+   - v3:
+   - v4:
+
+3. GPT-5.4-codex
+   - v1: 11m 40s
+   - v2: 6m 29s
+   - v3: 7m 32s
+   - v4:
+
+# Prompt-STRUCTURED
+
+1. minimax-m2.5
+   - v1: 
+   - v2: 
+   - v3: 
+   - v4: 
+
+2. Qwen3-coder
+   - v1:
+   - v2:
+   - v3:
+   - v4:
+
+3. GPT-5.4-codex
+   - v1: 3m 43s
+   - v2: 3m 45s
+   - v3: 4m 8s
+   - v4:
+
+# Stricted-Prompt
+
+1. minimax-m2.5
+   - v1: 
+   - v2: 
+   - v3: 
+   - v4: 
+
+2. Qwen3-coder
+   - v1:
+   - v2:
+   - v3:
+   - v4:
+
+3. GPT-5.4-codex
+   - v1: 
+   - v2: 
+   - v3: 
+   - v4:
