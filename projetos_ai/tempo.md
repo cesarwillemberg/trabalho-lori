@@ -8,8 +8,8 @@
 
 2. Qwen3-coder
    - v1: 8m 30s
-   - v2: 
-   - v3:
+   - v2: 7m 22s
+   - v3: 
    - v4:
 
 3. GPT-5.4-codex
