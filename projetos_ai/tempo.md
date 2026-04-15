@@ -44,7 +44,7 @@
    - v1: 1m 29s
    - v2: 2m 15s
    - v3: 1m 46s
-   - v4: 
+   - v4: 3m 16s
 
 2. Qwen3-coder
    - v1:
