@@ -1,0 +1,101 @@
+.formulario {
+  max-width: 450px;
+  margin: 40px auto;
+  padding: 32px;
+  background: #f8f9fa;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.formulario h2 {
+  margin: 0 0 24px;
+  color: #2c3e50;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.campo {
+  margin-bottom: 16px;
+}
+
+.campo label {
+  display: block;
+  margin-bottom: 6px;
+  color: #444;
+  font-weight: 500;
+}
+
+.campo input,
+.campo select {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 1rem;
+  box-sizing: border-box;
+  background: #fff;
+}
+
+.campo input:focus,
+.campo select:focus {
+  outline: none;
+  border-color: #3498db;
+  box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+}
+
+.botao {
+  width: 100%;
+  padding: 12px;
+  margin-top: 8px;
+  background: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.botao:hover {
+  background: #2980b9;
+}
+
+.aprovado {
+  padding: 16px;
+  margin-bottom: 20px;
+  background: #d4edda;
+  border: 1px solid #c3e6cb;
+  border-radius: 6px;
+  color: #155724;
+  text-align: center;
+}
+
+.aprovado h3 {
+  margin: 0 0 8px;
+  font-size: 1.25rem;
+}
+
+.reprovado {
+  padding: 16px;
+  margin-bottom: 20px;
+  background: #f8d7da;
+  border: 1px solid #f5c6cb;
+  border-radius: 6px;
+  color: #721c24;
+  text-align: center;
+}
+
+.erros {
+  padding: 12px;
+  margin-bottom: 16px;
+  background: #fff3cd;
+  border: 1px solid #ffeeba;
+  border-radius: 6px;
+}
+
+.erro {
+  margin: 4px 0;
+  color: #856404;
+  font-size: 0.9rem;
+}
