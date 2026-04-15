@@ -23,7 +23,7 @@
 1. minimax-m2.5
    - v1: 3m 59s
    - v2: 6m 9s
-   - v3: 
+   - v3: 3m 20s
    - v4: 
 
 2. Qwen3-coder
@@ -58,7 +58,7 @@
    - v3: 4m 8s
    - v4:
 
-# Stricted-Prompt
+# Explicit-Restriction
 
 1. minimax-m2.5
    - v1: 
