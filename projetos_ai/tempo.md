@@ -41,7 +41,7 @@
 # Structured-Prompt
 
 1. minimax-m2.5
-   - v1: 
+   - v1: 1m 29s
    - v2: 
    - v3: 
    - v4: 
