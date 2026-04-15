@@ -1,0 +1,24 @@
+[
+  {
+    "id": "24c6ec04-6524-4bbd-b528-12df4f559f25",
+    "timestamp": "2026-04-11T20:16:50.381Z",
+    "client": {
+      "idade": 24,
+      "rendaMensal": 3000,
+      "historicoDividas": "limpo",
+      "valorEmprestimo": 20000
+    },
+    "result": {
+      "approved": false,
+      "installmentValue": 1666.67,
+      "incomeCommitment": 55.56,
+      "installments": 12,
+      "rules": {
+        "isAdult": true,
+        "withinIncomeLimit": false,
+        "hasGoodDebtHistory": true
+      },
+      "reason": "Cliente reprovado: parcela acima de 30% da renda mensal."
+    }
+  }
+]
