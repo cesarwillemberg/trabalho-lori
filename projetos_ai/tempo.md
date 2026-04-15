@@ -56,7 +56,7 @@
    - v1: 3m 43s
    - v2: 3m 45s
    - v3: 4m 8s
-   - v4:
+   - v4: 5m 20s
 
 # Explicit-Restriction
 
