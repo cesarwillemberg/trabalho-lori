@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "sonar": "node sonar-project.js"
   },
   "dependencies": {
     "next": "16.2.3",
@@ -15,6 +16,7 @@
     "zod": "4.1.12"
   },
   "devDependencies": {
+    "@sonar/scan": "^4.3.6",
     "@types/node": "24.7.2",
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
