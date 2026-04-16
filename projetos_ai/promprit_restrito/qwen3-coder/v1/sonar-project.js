@@ -18,7 +18,7 @@ sonarScanner(
       'sonar.projectKey': 'credit-analysis',
       'sonar.projectName': 'Credit Analysis',
       'sonar.projectVersion': '0.1.0',
-      'sonar.sources': 'app',
+      'sonar.sources': 'src',
       'sonar.exclusions': 'node_modules/**,.next/**,public/**',
       'sonar.sourceEncoding': 'UTF-8',
     },
