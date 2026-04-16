@@ -15,6 +15,7 @@
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
+    "@sonar/scan": "^4.3.6",
     "@types/node": "^24.7.2",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",

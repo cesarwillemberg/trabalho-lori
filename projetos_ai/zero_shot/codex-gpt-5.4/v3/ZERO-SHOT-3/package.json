@@ -12,7 +12,8 @@
     "start:web": "next start",
     "start:server": "tsx server/index.ts",
     "lint": "eslint . --ext .js,.mjs,.ts,.tsx",
-    "server:build": "tsc -p server/tsconfig.json"
+    "server:build": "tsc -p server/tsconfig.json",
+    "sonar": "node sonar-project.js"
   },
   "keywords": [
     "nextjs",
@@ -29,6 +30,7 @@
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
+    "@sonar/scan": "^4.3.6",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
     "@types/node": "^25.6.0",
