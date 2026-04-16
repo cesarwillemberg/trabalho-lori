@@ -1,7 +1,7 @@
 const sonarScanner = require('@sonar/scan').default;
 
 const serverUrl = process.env.SONAR_HOST_URL || 'http://localhost:9000';
-const token = process.env.SONAR_TOKEN || 'sqa_b609ee34589471001ab3a396f18a515fd1bb1467';
+const token = process.env.SONAR_TOKEN || 'sqa_1f91197659ed6f2dd41147ce4d8d15bbb5c2bd64';
 
 if (!token) {
   console.error(
@@ -18,7 +18,7 @@ sonarScanner(
       'sonar.projectKey': 'credit-analysis',
       'sonar.projectName': 'Credit Analysis',
       'sonar.projectVersion': '0.1.0',
-      'sonar.sources': 'app',
+      'sonar.sources': '.',
       'sonar.exclusions': 'node_modules/**,.next/**,public/**',
       'sonar.sourceEncoding': 'UTF-8',
     },
