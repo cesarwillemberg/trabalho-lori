@@ -1,0 +1,6 @@
+projectKey=credit-analysis
+serverUrl=http://localhost:9000
+serverVersion=26.4.0.121862
+dashboardUrl=http://localhost:9000/dashboard?id=credit-analysis
+ceTaskId=7516fc17-e144-43f6-bdb6-60379169290c
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7516fc17-e144-43f6-bdb6-60379169290c
