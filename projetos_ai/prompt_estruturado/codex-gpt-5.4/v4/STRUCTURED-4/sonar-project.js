@@ -1,7 +1,7 @@
 const sonarScanner = require('@sonar/scan').default;
 
 const serverUrl = process.env.SONAR_HOST_URL || 'http://localhost:9000';
-const token = process.env.SONAR_TOKEN || 'sqa_eb05419350ffcd31ff83de3a2390ade4605ea89b';
+const token = process.env.SONAR_TOKEN || 'sqa_b609ee34589471001ab3a396f18a515fd1bb1467';
 
 if (!token) {
   console.error(
